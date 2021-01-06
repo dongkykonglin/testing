@@ -1,0 +1,8 @@
+print("HW is fucking hard")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
